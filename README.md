@@ -17,11 +17,11 @@ We’re using MozFest to launch our call for contributions from community builde
 
 ## Contributing
 
-Thanks for your interest in contributing to the Community Building Field Guide! There are many ways to contribute. To get started, please take a look at [CONTRIBUTING.md](2).
+Thanks for your interest in contributing to the Community Building Field Guide! There are many ways to contribute. To get started, please take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](4). By participating, you are expected to uphold this code. Please report unacceptable behavior to connect@sproutfund.org.
+This project adheres to a [code of conduct](CODEOFCONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to connect@sproutfund.org.
 
 ## MozFest
 
