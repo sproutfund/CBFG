@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to The Sprout Fund’s Community Building Field Guide! :tada: 
 
-The [Community Building Field Guide (CBFG)](1) is an effort to develop an open source resource that documents Sprout’s community building philosophy. We’re creating a collection of stories about community builders — the activists and advocates who use open practices to catalyze civic action.
+The [Community Building Field Guide (CBFG)](README.md) is an effort to develop an open source resource that documents Sprout’s community building philosophy. We’re creating a collection of stories about community builders — the activists and advocates who use open practices to catalyze civic action.
 
 This document is a set of guidelines for contributing to Sprout’s Community Building Field Guide on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
@@ -13,7 +13,7 @@ This document is a set of guidelines for contributing to Sprout’s Community Bu
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to connect@sproutfund.org.
+This project adheres to a [code of conduct](CODEOFCONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to connect@sproutfund.org.
 
 ## What we're working on
 
